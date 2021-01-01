@@ -1,2 +1,4 @@
-# machinelearning.macbase.co.za
-Personal website that showcases my machine-learning learning journey.
+## machinelearning.macbase.co.za
+This is a website that has the primary goal of showcasing all small machine learning applications developed by the Macbase team. 
+
+
